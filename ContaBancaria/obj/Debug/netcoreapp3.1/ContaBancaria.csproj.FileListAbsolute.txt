@@ -1,0 +1,11 @@
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.exe
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.deps.json
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.json
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.dev.json
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.dll
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.pdb
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfo.cs
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.dll
+C:\Users\dusil\Desktop\C#2\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.pdb
